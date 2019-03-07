@@ -82,8 +82,8 @@
 
 	<repositories>
 		<repository>
-			<id>maven-group</id>
-			<url>http://192.168.100.205:8081/repository/maven-group/</url>
+			<id>maven-repo</id>
+			<url>https://github.com/mrusli/maven-repo</url>
 		</repository>
 	</repositories>
 
