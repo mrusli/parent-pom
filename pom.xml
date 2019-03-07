@@ -7,20 +7,17 @@
 	<artifactId>Application</artifactId>
 	<version>2.0.0</version>
 
-	<name>PYRAMIX-SYSTEM Server</name>
+	<name>PYRAMIX-SYSTEM-SERVER</name>
 	<description>
-		PYRAMIX SYSTEM
+		PYRAMIX SYSTEM SERVER
 	</description>
 
 	<packaging>pom</packaging>
 	
 	<modules>
-    	<module>Domain</module>
-    	<module>Persistent</module>
-		<module>Service</module>
-		<module>Service-Web</module>
-		<module>Http-Get</module>
-    	<module>Pyramix-Server</module>
+	    	<module>Domain</module>
+    		<module>Persistent</module>
+    		<module>Pyramix-Server</module>
   	</modules>
 
 	<build>
